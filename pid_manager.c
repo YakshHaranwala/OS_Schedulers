@@ -1,7 +1,6 @@
 /** <q2_pid_manager.c>
  * Submitted by: Yaksh J Haranwala
- * Student #: 201907532
- *
+ * 
  * This code is the solution to Assignment 2 Question 2.
  * The purpose of the Code is to create a PID manager that allocates and removes PID when the functions
  * are called to do so. Note that the PIDs assigned are within a specified range and the PIDs cannot 
