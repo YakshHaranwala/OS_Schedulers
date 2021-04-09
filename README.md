@@ -10,3 +10,5 @@ It is assumed here that all the process arrive at the same time starting at t = 
 
 Cheers,
 Yaksh Haranwala
+
+Sample runs are added to the Sample_Runs folder.
