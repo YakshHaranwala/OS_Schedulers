@@ -1,7 +1,6 @@
 /**
  * <schedule_priority.c>
  * Name: Yaksh J Haranwala
- * Student ID: 201907532
  * 
  * This file has the Highest Priority scheduler for the project. The purpose of the scheduler is 
  * to schedule the tasks based on Highest Priority First basis. Scheduling metrics like 
